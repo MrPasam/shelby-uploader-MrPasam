@@ -133,5 +133,28 @@ The main focus of this repository is learning, experimentation, and building lig
 
 ---
 
-## Repository Structure
+## Related Resources
+
+Shelby Documentation  
+https://docs.shelby.io
+
+Shelby GitHub  
+https://github.com/shelby-labs
+
+Aptos Blockchain  
+https://aptoslabs.com
+
+Web3 Storage Concepts  
+https://ethereum.org/en/web3
+
+---
+## Author
+
+MrPasam
+
+account GitHub  
+https://github.com/MrPasam
+
+account X
+https://x.com/MR_Pasam99
 
