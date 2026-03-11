@@ -1,3 +1,102 @@
+# Shelby Crypto — Web3 Hot Storage Infrastructure
+
+Shelby is one of the most talked-about Web3 infrastructure projects recently trending on X.
+
+This repository introduces the **Shelby decentralized storage ecosystem**, its technology, and how developers can experiment with building applications on top of it.
+
+---
+
+# What is Shelby?
+
+Shelby is a **high-performance decentralized cloud storage network** designed for Web3 applications.
+
+Unlike traditional decentralized storage systems, Shelby focuses on **real-time data access and cloud-grade performance**.
+
+The goal is to bring **Web2-level infrastructure to Web3 builders**.
+
+Key vision:
+
+• Decentralized cloud storage  
+• Real-time data access  
+• AI & streaming support  
+• Developer-friendly infrastructure  
+
+---
+
+# Why Shelby Matters
+
+Most Web3 applications still rely on centralized storage like AWS or Google Cloud.
+
+Shelby changes this by providing:
+
+• decentralized storage  
+• programmable data access  
+• monetizable data infrastructure  
+• cloud-level speed
+
+This makes it possible to build new applications such as:
+
+• AI agents  
+• decentralized social networks  
+• Web3 streaming platforms  
+• DePIN networks  
+
+---
+
+# Key Features
+
+High performance storage  
+Millisecond data access  
+Cross-chain compatibility  
+Developer SDK and APIs  
+Programmable data monetization  
+
+---
+
+# Architecture Overview
+
+Shelby combines several components:
+
+Blockchain coordination layer  
+High-performance node network  
+Fiber backbone infrastructure  
+Smart contract-based data economy
+
+This architecture allows developers to build **data-heavy Web3 applications** with cloud-level performance.
+
+---
+
+# Example Use Cases
+
+AI inference pipelines
+
+Video streaming platforms
+
+Decentralized social media
+
+Real-time gaming infrastructure
+
+DePIN data networks
+
+---
+
+# Developer Tools
+
+Shelby provides multiple tools for builders:
+
+CLI tools
+
+SDK integrations
+
+API access
+
+Storage manager
+
+These tools help developers upload, manage, and serve data directly from the Shelby network.
+
+---
+
+
 # Shelby Storage Uploader
 
 A lightweight experimental tool for uploading files to the Shelby decentralized storage network.
